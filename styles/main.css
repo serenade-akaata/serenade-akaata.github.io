@@ -5,11 +5,13 @@ html {
 h1 {
     color: black;
     font-weight: 500px;
+    font-size: 30px;
+    font-family: bookman;
 }
  div {
-     font-family: 'Courier New', Courier, monospace;
+     font-family: courier New;
      font-size: 12px;
      border: 1px solid black;
-     padding: 25px 50px 75px 100px;
+     padding: 25px 20px 100px 20px;
      background-color: lightblue;
  }
