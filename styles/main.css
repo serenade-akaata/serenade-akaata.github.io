@@ -8,7 +8,7 @@ html {
      font-size: 48px;
      padding: 20px, 50px, 100px, 100px;
      margin: 0;
-     background-color: red;
+     background-color: rgb(174, 248, 2);
      opacity: 0.7 ;
      color: black;
      text-align: center;
@@ -16,9 +16,12 @@ html {
 
  .logo {
     float: left;
+    }
+
+img {
     width: 220px;
     height: 425px;
-    }
+}
 
  .text {
      color:black;
