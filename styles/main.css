@@ -56,3 +56,9 @@ img {
      font-size: 12px;
      text-align: center;
  }
+
+ body {
+     width: 900px;
+     height: 700px;
+     margin: 15px;
+ }
