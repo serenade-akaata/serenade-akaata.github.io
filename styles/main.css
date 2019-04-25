@@ -12,8 +12,6 @@ html {
      background-color: rgb(248, 71, 71);
      color: black;
      text-align: center;
-     height: 700px;
-     width: 50px;
  }
 
  ul {
@@ -54,7 +52,7 @@ img {
 
  .content {
      color:black;
-     font-size: 12px;
+     font-size: 14px;
      font-family: proxima-nova", "Helvetica Neue", Arial, sans-serif;
  }
 
