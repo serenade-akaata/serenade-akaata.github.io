@@ -53,7 +53,7 @@ img {
  .text {
      color:black;
      font-size: 12px;
-     text-align: center;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
  }
 
  body {
