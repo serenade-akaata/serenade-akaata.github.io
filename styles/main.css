@@ -18,13 +18,13 @@ html {
  ul {
     list-style-type: none;
     margin: 0;
-    padding: 20px, 50px, 100px, 100px;
+    padding: 20px, 50px, 100px, 90px;
     overflow: hidden;
     background-color: rgb(248, 98, 98);
   }
 
  li {
-    float: right;
+    float: left;
   }
 
   li a {
