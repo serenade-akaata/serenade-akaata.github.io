@@ -16,7 +16,10 @@ html {
 
  .logo {
     float: left;
+    width: 120px;
+    height: 225px;
     }
+
  .text {
      color:black;
      font-size: 12px;
