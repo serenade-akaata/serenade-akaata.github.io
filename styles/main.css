@@ -120,3 +120,7 @@ a:-webkit-any-link {
     margin-top: 10%;
 }
 
+h1 {
+    font-weight: 800;
+    font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
