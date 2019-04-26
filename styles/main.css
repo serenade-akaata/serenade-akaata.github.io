@@ -2,9 +2,13 @@ meta {
     display: none;
 }
 
-title {
+title .subheading{
     display:none;
-    margin-top: 100px;
+    font-size: 24px;
+    font-weight: 250px;
+    line-height: 1.1;
+    margin: 10px 0 0;
+    font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
 }
 
 .technology-image {
@@ -115,3 +119,4 @@ a:-webkit-any-link {
     z-index: 999;
     margin-top: 10%;
 }
+
