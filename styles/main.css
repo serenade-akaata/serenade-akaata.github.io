@@ -94,6 +94,9 @@ nav {
     display: block;
 }
 
+div {
+    display:block;
+}
 a:-webkit-any-link {
     color: -webkit-link;
     cursor: pointer;
