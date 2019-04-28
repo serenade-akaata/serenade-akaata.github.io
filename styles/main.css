@@ -113,7 +113,8 @@ a:-webkit-any-link {
     margin: 0 auto;
     position: relative;
     z-index: 999;
-    margin-top: 10%;
+    margin-top: 0%;
+    margin-bottom: 15%;
 }
 
 h1 {
