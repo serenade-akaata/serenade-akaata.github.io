@@ -77,10 +77,6 @@ div {
     width: 100%;
 }
 
-.active {
-    background-color: #4F5251;
-    border-style: inset 10px;
-}
 
 h3 {
     display: block;
@@ -115,6 +111,7 @@ div {
 h1 {
     font-weight: 800;
     font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-size: 35px;
 }
 
 .topnav {
