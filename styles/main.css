@@ -186,3 +186,14 @@ a:-webkit-any-link {
     cursor: pointer;
     text-decoration: underline;
 }
+
+body {
+    width: 100%;
+    height: 100%;
+    background-color: #F5F3F5;
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+}
