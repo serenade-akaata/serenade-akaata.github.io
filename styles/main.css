@@ -188,6 +188,13 @@ h2 {
     font-size: 30px;
 }
 
+.post-meta {
+    font-size: 18px;
+    font-style: italic;
+    margin-top: 0;
+    color: #868e96;
+}
+
 footer {
     text-align: center;
     margin-top: 10%;
