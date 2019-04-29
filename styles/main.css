@@ -46,6 +46,7 @@ title .subheading{
     background-repeat: no-repeat;
     margin-bottom: 40px;
     display: flex;
+    opacity: 0.8;
 }
 
 .margin-img {
