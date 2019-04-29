@@ -11,6 +11,17 @@ title .subheading{
     font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
 }
 
+.laptop-image {
+    min-height: 560px;
+    background-image: url(https://www.ionos.com/digitalguide/fileadmin/DigitalGuide/Teaser/web-development-t.jpg);
+    background-color: white;
+    max-width: 100% !important;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 40px;
+    display: flex;
+}
 
 .technology-image {
     min-height: 560px;
