@@ -202,6 +202,10 @@ h2 {
     font-size: 30px;
 }
 
+h4 {
+    text-align:left;
+}
+
 .post-meta {
     font-size: 18px;
     margin-top: 0;
