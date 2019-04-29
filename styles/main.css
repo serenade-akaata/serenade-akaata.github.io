@@ -11,6 +11,19 @@ title .subheading{
     font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
 }
 
+.plan-image {
+    min-height: 560px;
+    background-image: url(https://www.aconsciousrethink.com/wp-content/uploads/2018/03/growth-mindset.jpg);
+    background-color: white;
+    max-width: 100% !important;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 40px;
+    display: flex;
+    opacity: 0.8;
+}
+
 .values-image {
     min-height: 560px;
     background-image: url(https://i.ytimg.com/vi/cw62CpjP0v8/maxresdefault.jpg);
@@ -206,6 +219,19 @@ h2 {
 h4 {
     text-align:left;
     font-size: 25px;
+}
+
+.black {
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    position: relative;
+    z-index: 999;
+    margin-top: 0%;
+    margin-bottom: 1%;
 }
 
 .post-meta {
