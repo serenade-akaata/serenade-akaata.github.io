@@ -11,6 +11,12 @@ title .subheading{
     font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
 }
 
+.subheading {
+    text-align: center;
+    color:white;
+    font-size: 24px;
+}
+
 .plan-image {
     min-height: 560px;
     background-image: url(https://png.pngtree.com/thumb_back/fw800/back_pic/00/15/01/1556792adfbca83.jpg);
