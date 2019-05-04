@@ -17,6 +17,19 @@ title .subheading{
     font-size: 24px;
 }
 
+.smokey-image {
+    min-height: 560px;
+    background-image: url(http://cdn6.dissolve.com/p/D1869_4_025/D1869_4_025_0004_600.jpg);
+    background-color: white;
+    max-width: 100% !important;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 40px;
+    display: flex;
+    opacity: 0.8;
+}
+
 .plan-image {
     min-height: 560px;
     background-image: url(https://png.pngtree.com/thumb_back/fw800/back_pic/00/15/01/1556792adfbca83.jpg);
