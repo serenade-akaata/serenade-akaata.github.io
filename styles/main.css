@@ -17,6 +17,19 @@ title .subheading{
     font-size: 24px;
 }
 
+.Code-image {
+    min-height: 560px;
+    background-image: url(https://cdn-images-1.medium.com/max/1600/1*8r6hvv5E-FOOdKOih4G7Hg.jpeg);
+    background-color: white;
+    max-width: 100% !important;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 40px;
+    display: flex;
+    opacity: 0.8;
+}
+
 .mindset-image {
     min-height: 560px;
     background-image: url(https://smartminds-5wo5bg7s3vylngcwqgid.stackpathdns.com/wp-content/uploads/2017/10/brain-feature-min-copy-1.jpg);
